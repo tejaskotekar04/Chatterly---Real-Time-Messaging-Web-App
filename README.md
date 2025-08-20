@@ -23,11 +23,11 @@ cd Chatterly---Real-Time-Messaging-Web-App
 
 2. Create and activate a virtual environment-:
    
-python -m venv venv
+   python -m venv venv
 
-.\venv\Scripts\activate    # Windows
+  .\venv\Scripts\activate    # Windows
 
-source venv/bin/activate   # macOS/Linux
+  source venv/bin/activate   # macOS/Linux
 
 3. Install dependencies-:
    pip install -r requirements.txt
