@@ -21,20 +21,25 @@ git clone https://github.com/tejaskotekar04/Chatterly---Real-Time-Messaging-Web-
 
 cd Chatterly---Real-Time-Messaging-Web-App
 
-3. Create and activate a virtual environment-:
+2. Create and activate a virtual environment-:
+   
 python -m venv venv
+
 .\venv\Scripts\activate    # Windows
+
 source venv/bin/activate   # macOS/Linux
 
-4. Install dependencies-:
+3. Install dependencies-:
    pip install -r requirements.txt
 
-5. Run the app-:
+4. Run the app-:
+   
    python app.py
 
-6. Open in browser-:
+5. Open in browser-:
+   
    http://127.0.0.1:5000/
 
-7. Open in multiple tabs to test real-time chat.
+6. Open in multiple tabs to test real-time chat.
 
  
