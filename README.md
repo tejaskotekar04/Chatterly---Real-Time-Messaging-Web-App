@@ -40,6 +40,9 @@ cd Chatterly---Real-Time-Messaging-Web-App
    
    http://127.0.0.1:5000/
 
-6. Open in multiple tabs to test real-time chat.
+   By default, Flask (and Flask-SocketIO) runs on:
+   Host → 127.0.0.1 (localhost) & Port → 5000
+
+7. Open in multiple tabs to test real-time chat.
 
  
