@@ -18,22 +18,23 @@ Tech Stack-:
 How to Run Locally-:
 1. Clone the repository:
 git clone https://github.com/tejaskotekar04/Chatterly---Real-Time-Messaging-Web-App.git
+
 cd Chatterly---Real-Time-Messaging-Web-App
 
-2. Create and activate a virtual environment-:
+3. Create and activate a virtual environment-:
 python -m venv venv
 .\venv\Scripts\activate    # Windows
 source venv/bin/activate   # macOS/Linux
 
-3. Install dependencies-:
+4. Install dependencies-:
    pip install -r requirements.txt
 
-4. Run the app-:
+5. Run the app-:
    python app.py
 
-5. Open in browser-:
+6. Open in browser-:
    http://127.0.0.1:5000/
 
-6. Open in multiple tabs to test real-time chat.
+7. Open in multiple tabs to test real-time chat.
 
  
