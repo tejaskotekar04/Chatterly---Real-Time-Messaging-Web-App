@@ -4,10 +4,15 @@ Each user is assigned a random avatar and username when they join.
 
 Features-:
 🔹 Real-time messaging with WebSockets (Socket.IO)
+
 🔹 Random unique username + avatar generated on join
+
 🔹 User join/leave notifications
+
 🔹 Ability to update username anytime
+
 🔹 Avatars displayed next to chat messages
+
 🔹 Modern UI with responsive design
 
 Tech Stack-:
