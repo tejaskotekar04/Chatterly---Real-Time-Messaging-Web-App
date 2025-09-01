@@ -3,6 +3,7 @@ It allows multiple users to connect, send messages instantly, and update their u
 Each user is assigned a random avatar and username when they join.
 
 Features-:
+
 🔹 Real-time messaging with WebSockets (Socket.IO)
 
 🔹 Random unique username + avatar generated on join
